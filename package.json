@@ -1,0 +1,11 @@
+{
+  "name": "base16-pinkie-pie",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "My Pinkie Pie inspired color theme based on Base16.",
+  "repository": "https://github.com/atom/base16-pinkie-pie",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
