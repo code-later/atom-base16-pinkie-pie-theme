@@ -5,4 +5,4 @@ can be found [here](https://gist.github.com/railsbros-dirk/6901884).
 
 The theme was created with the [TextMate bundle converter](http://atom.io/docs/latest/converting-a-text-mate-theme).
 
-![A screenshot with Ruby code](https://raw.github.com/railsbros-dirk/atom-base16-pinkie-pie-theme/base16-pinkie-pie-theme.png)
+![A screenshot with Ruby code](https://raw.github.com/railsbros-dirk/atom-base16-pinkie-pie-theme/master/base16-pinkie-pie-theme.png)
